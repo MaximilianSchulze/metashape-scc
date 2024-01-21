@@ -2,15 +2,14 @@
 # 
 # Executing this script in Agisoft Metashape Professional allows for automated camera model optimization.
 #
-# The implemented cleaning steps follow the suggestions detailed in the Open-File File report 2021-1039, published by Over et al. (2021):
-# Over, J.-S.R., Ritchie, A.C., Kranenburg, C.J., Brown, J.A., Buscombe, D.D., Noble, T., Sherwood, C.R., Warrick, J.A., Wernette, P.A., 2021.
-# Processing coastal imagery with Agisoft Metashape Professional Edition, version 1.6 — Structure from motion workflow documentation. US Geological Survey.
-#
-# 
+# The implemented cleaning steps follow the suggestions detailed in the Open-File report 2021-1039, published by Over et al. (2021):
+# Over, J.-S.R., Ritchie, A.C., Kranenburg, C.J., Brown, J.A., Buscombe, D.D., Noble, T., Sherwood, C.R., Warring, J.A., Wernette, P.A., 2021.
+# Processing coastal imagery with Agisoft Metashape Professional Edition, version 1.6 - Structure from motion workflow documentation. US Geological Surey.
 #
 # Author: Maximilian Schulze, University of Cologne, Germany
 # E-Mail: maximilian.schulze@uni-koeln.de
 # April 2023
+# Tested on Agisoft Metashape Professional ver. 2.1.0.175730
 
 
 
@@ -1459,7 +1458,7 @@ class NewWindow(QDialog):
           self.tree_widgets[key]["Num. points"].setText(1, '{0: <10} ---> {1: <10}'.format(n_points_begin, n_points_left))
 
           self.tree_widgets[key]["RMSE"].setText(1, '{0: <10} ---> {1: <10} (pix)'.format(round(rms_begin, 5), round(rms_final, 5)))
-          self.tree_widgets[key]["SEUW"].setText(1, '{0: <10} ---> {1: <10}'.format(round(seuw_begin, 5), round(seuw_final, 5)))
+          self.tree_widgets[key]["SEUW"].setText(1, '{0: <10} ---> {1: <10}.'.format(round(seuw_begin, 5), round(seuw_final, 5)))
 
           if cam_err_begin and cam_err_final:
               self.tree_widgets[key]["Camera error"].setText(1, '{0: <10} ---> {1: <10} (m)'.format(round(cam_err_begin, 5), round(cam_err_final, 5)))
