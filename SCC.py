@@ -1,11 +1,25 @@
 # SCC (Sparse Cloud Cleaning) Script for Agisoft Metashape Professional.
-# 
+ 
 # Executing this script in Agisoft Metashape Professional allows for automated camera model optimization.
-#
+
 # The implemented cleaning steps follow the suggestions detailed in the Open-File report 2021-1039, published by Over et al. (2021):
 # Over, J.-S.R., Ritchie, A.C., Kranenburg, C.J., Brown, J.A., Buscombe, D.D., Noble, T., Sherwood, C.R., Warring, J.A., Wernette, P.A., 2021.
 # Processing coastal imagery with Agisoft Metashape Professional Edition, version 1.6 - Structure from motion workflow documentation. US Geological Surey.
-#
+
+# There is absolutely no warranty on any results obtained from this script.
+
+# If this script proves useful for your research, please cite our corresponding open access article:
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Article ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+#                                                                                                                            #
+#       Automated cleaning of tie point clouds following USGS guidelines in Agisoft Metashape Professional (ver. 2.1.0)      # 
+#       Joel Mohren & Maximilian Schulze                                                                                     #
+#       MethodsX 12, 102679, 2024                                                                                            #
+#       doi: https://doi.org/10.1016/j.mex.2024.102679                                                                       #
+#                                                                                                                            #
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+
+
 # Author: Maximilian Schulze, University of Cologne, Germany
 # E-Mail: maximilian.schulze@uni-koeln.de
 # April 2023
