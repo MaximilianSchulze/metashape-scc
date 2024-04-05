@@ -1,7 +1,7 @@
 # Agisoft Metashape Professional ver. 2.1.x Sparse Cloud Cleaning (SCC) script
 
 
-Further details can be found in our article published in MethodsX (click image below):
+For a detailed description please refer to our article published in MethodsX (click image below):
 
 <div align="center">
 
