@@ -22,7 +22,7 @@ Here is a short how-to:
 
 
 
-2. The script GUI appears. Chose your preferred cleaning properties. A standard cleaning procedure is selected by default:
+2. The script GUI appears. Chose your preferred cleaning properties. A default cleaning procedure is preset:
 
 <div align="center">
     <img src="/images/Main_GUIAI-01.jpg" width="400px"</img> 
