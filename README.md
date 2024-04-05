@@ -5,7 +5,11 @@ For details see XXXXXXX
 
 
 <div align="center">
-    <img src="/images/Title.JPG" width="400px"</img> 
+
+<a href="https://methods-x.com/article/S2215-0161(24)00133-X/fulltext">
+       <img src="/images/Title.JPG" width="400px"</img> 
+</a>
+
 </div>
 
 
