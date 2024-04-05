@@ -3,4 +3,4 @@
 
 hallo hallo!
 
-![Paper](/images/githubtest.png?raw=true "Optional Title")
+![Paper](/images/Title.JPG?raw=true "Optional Title")
