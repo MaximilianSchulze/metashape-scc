@@ -10,5 +10,5 @@ hallo hallo!
 
 
 <div align="center">
-    <img src="/images/image1.JPG" width="400px"</img> 
+    <img src="/images/Upload_ScriptAI.jpg" width="400px"</img> 
 </div>
