@@ -3,4 +3,4 @@
 
 hallo hallo
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](/images/githubtest.png?raw=true "Optional Title")
