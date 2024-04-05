@@ -3,9 +3,9 @@
 
 Further details can be found in our article published in MethodsX (click image below):
 
-<div align="center" style="margin: 100px 100 200px 100">
+<div align="center">
 
-<a href="https://methods-x.com/article/S2215-0161(24)00133-X/fulltext">
+<a href="https://methods-x.com/article/S2215-0161(24)00133-X/fulltext"  style="margin: 100px 100 200px 100;">
        <img src="/images/Title.JPG" width="400px"</img> 
 </a>
 
