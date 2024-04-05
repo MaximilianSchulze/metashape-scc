@@ -32,6 +32,6 @@ Here is a short how-to:
 3. After the optimization has finished, error reduction variables can be assessed for each cleaning step that has been executed. Additional information is provided in the console:
 
 <div align="center">
-    <img src="/images/Finished.jpg" width="400px"</img> 
+    <img src="/images/Finished.JPG" width="400px"</img> 
 </div>
 
