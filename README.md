@@ -17,7 +17,7 @@ Here is a short how-to:
 
 
 <div align="center">
-    <img src="/images/Upload_ScriptAI-01.jpg" width="600px"</img> 
+    <img src="/images/Upload_ScriptAI-01.jpg" width="400px"</img> 
 </div>
 
 
@@ -25,7 +25,7 @@ Here is a short how-to:
 2. The script GUI appears. Chose your preferred cleaning properties. A standard cleaning procedure is selected by default:
 
 <div align="center">
-    <img src="/images/Main_GUIAI-01.jpg" width="600px"</img> 
+    <img src="/images/Main_GUIAI-01.jpg" width="400px"</img> 
 </div>
 
 
