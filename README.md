@@ -3,7 +3,7 @@
 
 Further details can be found in our article published in MethodsX (click image below):
 
-<div align="center" style="margin-bottom: 2cm">
+<div align="center" style="margin-bottom: 200px">
 
 <a href="https://methods-x.com/article/S2215-0161(24)00133-X/fulltext">
        <img src="/images/Title.JPG" width="400px"</img> 
