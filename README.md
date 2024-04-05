@@ -13,7 +13,7 @@ Further details can be found in our article published in MethodsX (click image b
 
 
 Here is a short how-to:
-1. Import the script (can be omitted if the script is stored in the root folder of the program) and run it by clicking on the SCC button (#3):
+1. Import the script (can be omitted if the script is stored in the script autorun folder of the program) and run it by clicking on the SCC button (#3):
 
 
 <div align="center">
@@ -29,4 +29,9 @@ Here is a short how-to:
 </div>
 
 
-3. 
+3. After the optimization has finished, error reduction variables can be assessed for each cleaning step that has been executed. Additional information is provided in the console:
+
+<div align="center">
+    <img src="/images/Main_GUIAI-01.jpg" width="400px"</img> 
+</div>
+
