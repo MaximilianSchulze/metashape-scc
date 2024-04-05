@@ -17,7 +17,7 @@ Here is a short how-to:
 
 
 <div align="center">
-    <img src="/images/Upload_ScriptAI-01.jpg" width="400px"</img> 
+    <img src="/images/Upload_ScriptAI-01.jpg" width="800px"</img> 
 </div>
 
 
@@ -25,13 +25,13 @@ Here is a short how-to:
 2. The script GUI appears. Chose your preferred cleaning properties. A default cleaning procedure is preset:
 
 <div align="center">
-    <img src="/images/Main_GUIAI-01.jpg" width="400px"</img> 
+    <img src="/images/Main_GUIAI-01.jpg" width="800px"</img> 
 </div>
 
 
 3. After the optimization has finished, error reduction variables can be assessed for each cleaning step that has been executed. Additional information is provided in the console:
 
 <div align="center">
-    <img src="/images/Finished.JPG" width="400px"</img> 
+    <img src="/images/Finished.JPG" width="800px"</img> 
 </div>
 
