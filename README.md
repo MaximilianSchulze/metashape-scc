@@ -14,7 +14,7 @@ A detailed description can be found in our open access article published in Meth
 <br/><br/>
 
 <div align="center" style="font-weight:bold">
-Here is a short how-to: 
+<b>Here is a short how-to:</b>
 </div>
 
 <br/><br/>
